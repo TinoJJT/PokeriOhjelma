@@ -1,0 +1,12 @@
+Ensimmäisen käden kortit ovat:
+RistiQ PataJ Risti2 Hertta4 RuutuA 
+
+
+Toisen käden kortit ovat:
+Hertta3 PataK Risti8 Pata5 Risti6 
+
+
+Kolmannen käden kortit ovat:
+Pata4 Risti4 Pata6 RistiK Hertta6 
+Kaksi paria
+
